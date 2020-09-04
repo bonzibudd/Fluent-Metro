@@ -15,3 +15,7 @@ To install Fluent-Metro, copy the Fluent-Metro.skin7 file into "C:\Program Files
 ![Config](https://user-images.githubusercontent.com/61938331/92263545-cb3f5d80-eeaa-11ea-9514-2b06562f1f4f.png)
 
 As you can see, there is an array of customization to get the menu looking exactly how you want. Any additional required information is also explained here.
+
+# The future of Fluent-Metro
+
+I plan to have multiple variants of the skin, including a Windows XP/Classic style, and versions with sharp edges instead of rounded. My goal is to keep refining this skin, fixing bugs with certain configurations, and add more features to make the UI more consistent. I may also create some enhancements which are not related to the Start menu, but will add some more general enhancements.

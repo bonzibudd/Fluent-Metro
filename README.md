@@ -1,4 +1,4 @@
-# Fluent-Metro-for-Open-Shell
+# Fluent-Metro for Open-Shell
 A modern, highly customizable Windows 7-style skin for Open-Shell Menu.
 
 # Purpose of Fluent-Metro

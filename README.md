@@ -10,6 +10,7 @@ This skin is an attempt to bring Fluent design into the beloved Open-Shell Start
 First of all, you need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly customizable Start Menu replacement for Windows and is loved by enthusiasts. During installation, you can choose to not include the Explorer and IE integration. These are useful features but not necessary for the Start Menu feature.
 
 To install Fluent-Metro, copy the Fluent-Metro.skin7 file into "C:\Program Files\Open-Shell\Skins" so that the program recognizes the skin. Now, in Open-Shell Menu Settings, navigate to the "Skins" tab. From the skin dropdown, choose Fluent-Metro. And Voilà! The skin will be applied.
+**On Windows 8, Big Muscle's Aero Glass is highly recommended. Some visual features are not available without glass enabled.**
 
 # Configuration Options
 ![Config](https://user-images.githubusercontent.com/61938331/92263545-cb3f5d80-eeaa-11ea-9514-2b06562f1f4f.png)

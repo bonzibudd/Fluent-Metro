@@ -14,7 +14,7 @@ To install Fluent-Metro, copy the Fluent-Metro.skin7 file into "C:\Program Files
 # Configuration Options
 ![Config](https://user-images.githubusercontent.com/61938331/92263545-cb3f5d80-eeaa-11ea-9514-2b06562f1f4f.png)
 
-As you can see, there is an array of customization to get the menu looking exactly how you want. Any additional required information is also explained here.
+As you can see, there is an array of customization to get the menu looking exactly how you want. Any additional required information is also explained here. More options will be added as new versions of the skin are released.
 
 # The future of Fluent-Metro
 

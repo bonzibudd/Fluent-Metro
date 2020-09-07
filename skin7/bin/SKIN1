@@ -2,7 +2,7 @@
 
 ; About - text to use in the About box for this skin. use \n for new line
 About=Fluent-Metro for CS version 4.2.1+\n\nBased on Metro theme included in Classic Shell.\n\nSupported on high DPI and most other configurations.
-AboutIcon=1
+AboutIcon=ICONGROUP1
 
 ; Version - version of the required skin engine. Set to 2 if the skin uses any of the new features introduced in Open-Shell 1.9.0:
 ;    * full glass
@@ -44,7 +44,6 @@ Main_bitmap_jump_slices_Y=8,8,17
 Main_jump_padding=4,4,4,9
 
 Main_font="Segoe UI",normal,-9
-
 Main_text_color=$StartPrimaryText,$StartSelectionPrimaryText,$StartPrimaryText,$StartSelectionPrimaryText
 
 Main_selection=$StartPrimaryText|$StartSelectionBackground
@@ -52,6 +51,9 @@ Main_selection_tint1=$StartPrimaryText
 Main_selection_mask=28
 Main_split_selection_mask=29
 List_split_selection_mask=29
+List_split_selection_tint1=$StartPrimaryText
+List_split_selection_slices_X=3,1,2,2,1,3
+List_split_selection_slices_Y=3,2,3
 Main_selection_slices_X=3,2,3
 Main_selection_slices_Y=3,2,3
 Main_split_selection_slices_X=3,1,2,2,1,3
@@ -59,11 +61,11 @@ Main_split_selection_slices_Y=3,2,3
 Main_split_selection=$StartPrimaryText|$StartSelectionBackground
 Main_split_selection_tint1=$StartPrimaryText
 List_split_selection=$StartPrimaryText|$StartSelectionBackground
-List_split_selection_tint1=$StartPrimaryText
-List_split_selection_slices_X=3,1,2,2,1,3
-List_split_selection_slices_Y=3,2,3
 Main2_split_selection=$StartPrimaryText|$StartSelectionBackground
 Main2_split_selection_tint1=$StartPrimaryText
+Main2_split_selection_slices_X=3,1,2,2,1,3
+Main2_split_selection_slices_Y=3,2,3
+Main2_split_selection_mask=29
 
 ; Main_pager - a bitmap that contains the background for the pager buttons (the ones that scroll menus up and down)
 Main_pager=$SystemAccentDark1|$StartBackground
@@ -96,7 +98,6 @@ Main_new_selection_slices_X=3,2,3
 Main_new_selection_slices_Y=3,2,3
 
 ; Second column
-
 Main2_font="Segoe UI",normal,-11.5
 Main2_text_padding=1,8,8,10,100%
 Main2_padding=4,4,4,9
@@ -113,13 +114,12 @@ Main2_new_selection_slices_X=3,2,3
 Main2_new_selection_slices_Y=3,2,3
 
 ; Shutdown button
-
 Shutdown_selection=$StartPrimaryText|$StartBackground
 Shutdown_selection_tint1=$StartPrimaryText|$StartSelectionBackground
 Shutdown_selection_mask=31
-Shutdown_selection_slices_X=5,4,3,2,4,5
-Shutdown_selection_slices_Y=4,4,4
-Shutdown_padding=0,9,0,4,0%
+Shutdown_selection_slices_X=5,4,3,5,1,5
+Shutdown_selection_slices_Y=5,2,5
+Shutdown_padding=0,4,0,4,0%
 Shutdown_text_padding=8,4,12,6,100%
 Shutdown_icon_padding=5,3,-5,3,100%
 Shutdown_font="Segoe UI",normal,-11.5
@@ -128,15 +128,15 @@ Shutdown_arrow_color=$StartPrimaryText,$StartSelectionPrimaryText
 Shutdown_arrow_padding=8,9,100%
 
 ; Programs tree
-
 Programs_background=$SystemAccentDark1|$StartBackground
 Programs_text_padding=0,3,0,3,100%
 Programs_icon_padding =0,3,5,3,100%
 Programs_indent=-5
 
-Programs_icon=7
+Programs_icon=$StartPrimaryText
+Programs_icon_mask=7
 Programs_icon_tint1=$StartPrimaryText
-Programs_icon_mask=#FF0000
+Programs_icon_tint2=$SystemAccentLight2
 Programs_button_text_padding=1,8,8,9,100%
 Programs_button_new_text_padding=1,8,8,9,100%
 Programs_new_selection=$SystemAccentLight1|$StartBackground
@@ -147,30 +147,29 @@ Programs_new_selection_slices_Y=3,2,3
 
 ; Scrollbar
 Scrollbar_button=$SystemAccentDark1|$StartBackground
-Scrollbar_button_tint1=$ControlLightScrollbarButtonRest
-Scrollbar_button_tint2=$ControlLightScrollbarButtonHover
-Scrollbar_button_tint3=$ControlLightScrollbarButtonPressed
-Scrollbar_button_mask=32
+Scrollbar_button_tint1=$StartPrimaryText
+Scrollbar_button_tint2=$StartPrimaryText
+Scrollbar_button_tint3=$StartPrimaryText
+Scrollbar_button_mask=80
 Scrollbar_button_slices_X=3,3,3
 Scrollbar_button_slices_Y=3,3,3
 Scrollbar_thumb=$SystemAccentDark1|$StartBackground
-Scrollbar_thumb_tint1=$ControlLightScrollbarThumbRest
-Scrollbar_thumb_tint2=$ControlLightScrollbarThumbHover
-Scrollbar_thumb_tint3=$ControlLightScrollbarThumbPressed
+Scrollbar_thumb_tint1=$StartPrimaryText
+Scrollbar_thumb_tint2=$StartPrimaryText
+Scrollbar_thumb_tint3=$StartPrimaryText
 Scrollbar_thumb_mask=32
 Scrollbar_thumb_slices_X=3,3,3
 Scrollbar_thumb_slices_Y=3,3,3
 Scrollbar_background=$SystemAccentDark1|$StartBackground
-Scrollbar_background_tint1=$SystemAccentDark2
-Scrollbar_background_mask=#FF0000
+Scrollbar_background_tint1=$StartPrimaryText
+Scrollbar_background_mask=16
 Scrollbar_arrows=#StartBackground
 Scrollbar_arrows_tint1=$ControlLightScrollbarButtonGlyphPressed
 Scrollbar_arrows_tint2=$ControlLightScrollbarButtonGlyphPressed
-Scrollbar_arrows_tint3=$ControlLightScrollbarButtonGlyphRest$ControlLightScrollbarButtonGlyphPressed
+Scrollbar_arrows_tint3=$ControlLightScrollbarButtonGlyphRest
 Scrollbar_arrows_mask=17
-Scrollbar_background_slices_X=2,2,2
-Scrollbar_background_slices_Y=2,2,2
-
+Scrollbar_background_slices_X=3,3,3
+Scrollbar_background_slices_Y=3,3,3
 
 ; LIST SECTION
 List_text_padding=0,0,4,0,100%
@@ -178,9 +177,8 @@ List_separator_font="Segoe UI Semibold",normal,-10
 List_separator_text_padding=3,6,0,9,100%
 List_separator_icon_padding=6,3,3,3,100%
 List_arrow_padding=2,3,100%
-List_separator_split_font="Segoe UI Semibold",normal,-11.5
+List_separator_split_font="Segoe UI Semibold",normal,-10
 List_separator_text_color=$StartSelectionPrimaryText,$StartSelectionPrimaryText
-
 
 Search_padding=24,16,2,6,100%,100%,0%,0%
 Search_frame=0
@@ -220,7 +218,6 @@ Pin_bitmap=15
 Pin_bitmap_tint1=$StartPrimaryText
 Pin_bitmap_mask=#FF0000
 
-
 ;SUB-MENU SECTION - describes the look of the sub-menus
 
 ; The width of the standard window border is subtracted from all sides
@@ -233,7 +230,7 @@ Submenu_arrow_padding=10,12,100%
 ; These have the same meaning as the Main_... properties
 Submenu_opacity=region
 Submenu_bitmap=$SystemAccentDark1|$StartBackground
-Submenu_bitmap_tint1=$StartHighlight
+Submenu_bitmap_tint1=$SystemAccentLight1
 Submenu_bitmap_mask=23
 Submenu_bitmap_slices_X=6,4,6
 Submenu_bitmap_slices_Y=6,4,6
@@ -273,27 +270,32 @@ Submenu_new_selection_slices_X=3,2,3
 Submenu_new_selection_slices_Y=3,2,3
 
 Submenu_separatorV=$SystemAccentDark1|$StartBackground
-Submenu_separatorV_tint1=$StartSystemTilesBackground
+Submenu_separatorV_tint1=$StartPrimaryText
 Submenu_separatorV_mask=24
 Submenu_separatorV_slices_Y=5,5,5
-
 
 ; OPTIONS
 
 OPTION RADIOGROUP=Scaling (Check display settings),0,100|125
 OPTION 100=100% and 150% and higher,1
 OPTION 125=125% only,0
+OPTION RADIOGROUP=Main menu color,0,DARK_MAIN|METRO_MAIN
+OPTION DARK_MAIN=Dark (Override glass color to "252525" for transparent options),0
+OPTION METRO_MAIN=Accent color (Default),1
 OPTION RADIOGROUP=Sub-menu color,0,DARK_SUBMENU|METRO_SUBMENU
-OPTION DARK_SUBMENU=Dark (Default),1
+OPTION DARK_SUBMENU=Dark (Override glass color to "252525" for transparent options) (Default),1
 OPTION METRO_SUBMENU=Accent color,0
-OPTION RADIOGROUP=Shutdown button,0,TRANSPARENT_SHUTDOWN|OUTLINE_SHUTDOWN|BUTTON_SHUTDOWN
+OPTION RADIOGROUP=Shutdown button appearance,0,TRANSPARENT_SHUTDOWN|OUTLINE_SHUTDOWN|BUTTON_SHUTDOWN
 OPTION TRANSPARENT_SHUTDOWN=Invisible,0
 OPTION OUTLINE_SHUTDOWN=Thin border (Default),1
 OPTION BUTTON_SHUTDOWN=Full button,0
+OPTION EXPERIMENTAL_SHUTDOWN=Win10 shutdown button (Set command to "Shutdown dialog"),0
+OPTION TRANSPARENT_SCROLLBAR=Transparent scrollbar,0
 OPTION RADIOGROUP=Search box color,0,DARK_SEARCH|LIGHT_SEARCH|METRO_SEARCH
 OPTION DARK_SEARCH=Dark (Default),1
 OPTION LIGHT_SEARCH=Light,0
 OPTION METRO_SEARCH=Accent color,0
+OPTION SEARCH_FRAME=Border around search box,1
 OPTION SEARCH_ITALICS=Italicized search box,0
 DISABLED OPTION RADIOGROUP=Arrow size,0,LARGE_ARROWS|SMALL_ARROWS
 DISABLED OPTION LARGE_ARROWS=Large (Default),1
@@ -309,9 +311,9 @@ OPTION SMALL_ICONS=Compact (Small icons),0
 OPTION LARGE_FONT=#7006,0
 OPTION ICON_FRAME=Show icon frames (Not recommended),0, NOT SMALL_ICONS, 0
 OPTION RADIOGROUP=Opacity type,0,TRANSPARENT|OPAQUE_SUBMENU|OPAQUE_MENU|OPAQUE
-OPTION TRANSPARENT=Fully transparent (Override glass color to "2b2b2b"),0
+OPTION TRANSPARENT=Fully transparent,0
 OPTION OPAQUE_SUBMENU=Transparent main menu only (Default),1
-OPTION OPAQUE_MENU=Transparent sub-menu only (Override glass color to "2b2b2b"),0
+OPTION OPAQUE_MENU=Transparent sub-menu only,0
 OPTION OPAQUE=Fully opaque,0
 OPTION SEPARATOR=Main vertical separator,1
 OPTION RADIOGROUP=Shadow type (Completely disable in "Menu Look"),0,FULL_SHADOW|MENU_SHADOW|SUBMENU_SHADOW
@@ -324,9 +326,7 @@ OPTION NO_PROGRAMS_BUTTON=No "All Programs" button,0
 
 [DARK_SUBMENU]
 Submenu_bitmap=#2b2b2b
-Submenu_bitmap_tint1=#030303
-Submenu_new_selection=$SystemAccentDark1|$StartBackground
-Submenu_new_selection_tint1=$SystemAccentDark1
+Submenu_bitmap_tint1=#1c1c1c
 
 
 [OPAQUE_SUBMENU]
@@ -340,10 +340,17 @@ Programs_background=#C0000000
 Programs_background_mask=#FF0000
 Programs_background_tint1=$SystemAccentDark1|$StartBackground
 
+[OPAQUE]
+Scrollbar_button_mask=83
+Scrollbar_thumb_mask=82
+Scrollbar_background_mask=81
 
 [OPAQUE_MENU]
 Submenu_opacity=fullglass
 Submenu_bitmap_mask=47
+Scrollbar_button_mask=83
+Scrollbar_thumb_mask=82
+Scrollbar_background_mask=81
 
 
 [MENU_SHADOW]
@@ -360,7 +367,7 @@ Main_shadow=0
 
 [125]
 Main_arrow=36
-Programs_icon=37
+Programs_icon_mask=37
 Main_selection_mask=38
 Main_split_selection_mask=39
 List_split_selection_mask=39
@@ -381,6 +388,9 @@ Submenu_new_selection_mask=53
 Main_emblem2=55
 Main_emblem2_padding=24,12,12,21
 Search_bitmap=63
+Shutdown_padding=0,5,0,4,0%
+Main_pager_arrows_mask=86
+Submenu_pager_arrows_mask=86
 
 
 [SMALL_ICONS]
@@ -434,10 +444,8 @@ User_image_padding=0,4,100%
 
 
 [HIGH_DPI]
-Main_separator_mask=20
-Submenu_separator_mask=20
 User_frame_position=40
-Programs_icon=22
+Programs_icon_mask=22
 Main_pager_arrows_mask=21
 Submenu_pager_arrows_mask=21
 Main_arrow=35
@@ -460,6 +468,7 @@ Programs_new_selection_mask=54
 Submenu_new_selection_mask=54
 Main_emblem2=14
 Main_emblem2_padding=26,12,12,24
+Shutdown_padding=0,6,0,4,0%
 
 
 [HIGH_DPI AND USER_IMAGE]
@@ -467,10 +476,16 @@ User_mask=18
 User_image_size=64
 
 
+[125 AND USER_IMAGE]
+User_image_size=56
+User_mask=94
+
+
 [TRANSPARENT]
 Main_opacity=fullglass
 Main2_opacity=fullglass
 Submenu_opacity=fullglass
+
 
 Main_bitmap_mask=60
 Main_bitmap_search_mask=25
@@ -479,7 +494,9 @@ Programs_background=#C0000000
 Programs_background_mask=#FF0000
 Programs_background_tint1=$SystemAccentDark1|$StartBackground
 
+
 Submenu_bitmap_mask=47
+
 
 [LARGE_FONT AND SMALL_ICONS]
 Submenu_text_padding=0,3,16,6,100%
@@ -494,11 +511,14 @@ Programs_button_text_padding=1,3,8,6,100%
 Programs_button_new_text_padding=1,3,8,6,100%
 Main_text_padding=0,3,0,6,100%
 
+
 [LARGE_FONT AND 125]
 Main_emblem2_padding=24,12,12,22
 
+
 [LARGE_FONT AND HIGH_DPI]
 Main_emblem2_padding=26,12,12,26
+
 
 [METRO_SEARCH]
 Search_background_tint2=$SystemAccentDark3
@@ -509,6 +529,7 @@ Search_text_color_tint1=$ControlDarkRichEditBackgroundRest
 Main_emblem2_tint1=#f0f0f0
 Search_background_tint1=$SystemAccentLight1|$StartBackground
 
+
 [DARK_SEARCH]
 Search_background_tint2=#171717
 Search_text_background_tint1=#171717
@@ -518,17 +539,21 @@ Search_text_color_tint1=$ControlDarkRichEditBackgroundRest
 Main_emblem2_tint1=#f0f0f0
 Search_background_tint1=#a9a9a9
 
+
 [NOT SEPARATOR]
 Main_bitmap_mask=1
 Main_bitmap_jump_mask=1
+
 
 [TRANSPARENT AND NOT SEPARATOR]
 Main_bitmap_mask=25
 Main_bitmap_jump_mask=25
 
+
 [OPAQUE_SUBMENU AND NOT SEPARATOR]
 Main_bitmap_mask=25
 Main_bitmap_jump_mask=25
+
 
 [EXTRA_PADDING]
 Main_padding=17,8,8,13
@@ -537,9 +562,12 @@ Main_jump_padding=8,8,8,13
 Main2_padding=8,8,8,13
 User_image_padding=0,8,100%
 Main_emblem2_padding=25,12,12,22
+Shutdown_padding=0,8,0,4,0%
+
 
 [EXTRA_PADDING AND LARGE_FONT]
 Main_emblem2_padding=25,12,12,24
+
 
 [EXTRA_PADDING AND 125]
 Main_padding=19,10,10,15
@@ -547,9 +575,12 @@ Main_search_padding=19,10,10,15
 Main_jump_padding=10,10,10,15
 Main2_padding=10,10,10,15
 Main_emblem2_padding=29,12,12,26
+Shutdown_padding=0,10,0,4,0%
+
 
 [EXTRA_PADDING AND 125 AND LARGE_FONT]
 Main_emblem2_padding=29,12,12,27
+
 
 [EXTRA_PADDING AND HIGH_DPI]
 Main_padding=21,12,12,17
@@ -557,12 +588,16 @@ Main_search_padding=21,12,12,17
 Main_jump_padding=12,12,12,17
 Main2_padding=12,12,12,17
 Main_emblem2_padding=32,12,12,30
+Shutdown_padding=0,12,0,4,0%
+
 
 [EXTRA_PADDING AND HIGH_DPI AND LARGE_FONT]
 Main_emblem2_padding=32,12,12,32
 
+
 [SEARCHBOX]
 Main_bitmap_jump_slices_Y=8,1,1,0,6,17
+
 
 [NOT SEARCHBOX]
 Search_emblem_mask=0
@@ -571,12 +606,14 @@ Search_emblem_mask=0
 Main_emblem2=0
 Main_padding=13,4,4,13
 
+
 [HIGH_DPI AND NOT SEARCHBOX]
 Search_emblem_mask=0
 ;Search_emblem_search_mask=14
 ;Search_emblem_jump_mask=14
 Main_emblem2=0
 Main_padding=15,6,6,15
+
 
 [125 AND NOT SEARCHBOX]
 Search_emblem_mask=0
@@ -585,14 +622,18 @@ Search_emblem_mask=0
 Main_emblem2=0
 Main_padding=14,5,5,14
 
+
 [EXTRA_PADDING AND NOT SEARCHBOX]
 Main_padding=17,8,8,17
+
 
 [EXTRA_PADDING AND HIGH_DPI AND NOT SEARCHBOX]
 Main_padding=21,12,12,21
 
+
 [EXTRA_PADDING AND 125 AND NOT SEARCHBOX]
 Main_padding=19,10,10,19
+
 
 [LARGE_PROGRAMS]
 Programs_text_padding=0,8,0,8,100%
@@ -601,15 +642,19 @@ List_text_padding=0,8,0,8,100%
 List_icon_padding=5,8,8,8,100%
 List_arrow_padding=6,9,100%
 
+
 [LARGE_FONT AND LARGE_PROGRAMS]
 Programs_text_padding=0,8,0,11,100%
 List_text_padding=0,8,0,11,100%
 
+
 [NOT SEARCH_ARROW]
 search_arrow=62
 
+
 [NOT SEARCH_SEPARATOR]
 List_separator=61
+
 
 [SMALL_MAIN2]
 Main2_font="Segoe UI",normal,-9
@@ -619,50 +664,63 @@ Shutdown_text_padding=8,4,12,5,100%
 Main2_arrow_padding=5,6,100%
 Shutdown_arrow_padding=5,6,100%
 
+
 [SMALL_MAIN2 AND LARGE_FONT]
 Main2_font="Segoe UI",normal,-10
 Main2_text_padding=1,8,8,11,100%
 Shutdown_font="Segoe UI",normal,-10
 Shutdown_text_padding=8,4,12,7,100%
 
+
 [SEARCH_ITALICS]
 Search_hint_font="Segoe UI",italic,-9
+
 
 [SEARCH_ITALICS AND LARGE_FONT]
 Search_hint_font="Segoe UI",italic,-10
 
+
 [TRANSPARENT_SHUTDOWN]
 Shutdown_selection_mask=64
+
 
 [TRANSPARENT_SHUTDOWN AND 125]
 Shutdown_selection_mask=65
 
+
 [TRANSPARENT_SHUTDOWN AND HIGH_DPI]
 Shutdown_selection_mask=66
+
 
 [BUTTON_SHUTDOWN]
 Shutdown_selection_mask=67
 
+
 [BUTTON_SHUTDOWN AND 125]
 Shutdown_selection_mask=68
 
+
 [BUTTON_SHUTDOWN AND HIGH_DPI]
 Shutdown_selection_mask=69
+
 
 [SMALL_ARROWS]
 Main_arrow=70
 Submenu_arrow=70
 Search_arrow=73
 
+
 [SMALL_ARROWS AND 125]
 Main_arrow=71
 Submenu_arrow=71
 Search_arrow=74
 
+
 [SMALL_ARROWS AND HIGH_DPI]
 Main_arrow=72
 Submenu_arrow=72
 Search_arrow=75
+
 
 [NO_PROGRAMS_BUTTON]
 Programs_icon=61
@@ -679,3 +737,80 @@ Programs_button_new_selection_slices_X=0,2,0
 Programs_button_new_selection_slices_Y=0,1,0
 Programs_button_selection=$SystemAccentDark1|$StartSelectionBackground
 Programs_button_new_selection=$SystemAccentDark1|$StartSelectionBackground
+
+
+[EXPERIMENTAL_SHUTDOWN]
+Shutdown_text_padding=-9999,14,9991,13,100%
+Shutdown_font="Segoe UI",normal,-1
+Shutdown_selection_mask=76
+Shutdown_arrow=77
+Shutdown_arrow_padding=6,7,100%
+Shutdown_padding=0,0,0,4,0%
+
+
+[EXPERIMENTAL_SHUTDOWN AND 125]
+Shutdown_text_padding=-9999,15,9993,13,100%
+Shutdown_arrow=78
+Shutdown_selection_mask=84
+Shutdown_arrow_padding=6,7,100%
+
+
+[EXPERIMENTAL_SHUTDOWN AND HIGH_DPI]
+Shutdown_text_padding=-9999,15,9994,13,100%
+Shutdown_arrow=79
+Shutdown_selection_mask=85
+Shutdown_arrow_padding=10,11,0%
+
+
+[DARK_MAIN]
+Main_bitmap=#1f1f1f
+Main_bitmap_search=#1f1f1f
+Main_bitmap_jump=#1f1f1f
+Programs_background=#1f1f1f|$StartBackground
+Scrollbar_button=#1f1f1f
+Scrollbar_thumb=#1f1f1f
+Scrollbar_background=#1f1f1f
+
+
+[DARK_MAIN AND OPAQUE_SUBMENU]
+Programs_background_tint1=#1f1f1f
+Programs_background=#C0000000
+
+
+[DARK_MAIN AND TRANSPARENT]
+Programs_background_tint1=#1f1f1f
+Programs_background=#C0000000
+
+
+[NOT TRANSPARENT_SCROLLBAR]
+Scrollbar_button_mask=83
+Scrollbar_thumb_mask=82
+Scrollbar_background_mask=81
+
+
+[NOT SEARCH_FRAME]
+Search_background_mask=87
+
+
+[EXPERIMENTAL_SHUTDOWN AND BUTTON_SHUTDOWN]
+Shutdown_selection_mask=88
+
+
+[EXPERIMENTAL_SHUTDOWN AND BUTTON_SHUTDOWN AND 125]
+Shutdown_selection_mask=89
+
+
+[EXPERIMENTAL_SHUTDOWN AND BUTTON_SHUTDOWN AND HIGH_DPI]
+Shutdown_selection_mask=90
+
+
+[EXPERIMENTAL_SHUTDOWN AND OUTLINE_SHUTDOWN]
+Shutdown_selection_mask=91
+
+
+[EXPERIMENTAL_SHUTDOWN AND OUTLINE_SHUTDOWN AND 125]
+Shutdown_selection_mask=92
+
+
+[EXPERIMENTAL_SHUTDOWN AND OUTLINE_SHUTDOWN AND HIGH_DPI]
+Shutdown_selection_mask=93

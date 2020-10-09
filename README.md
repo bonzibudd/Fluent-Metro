@@ -1,5 +1,5 @@
 # Fluent-Metro for Open-Shell Menu
-A modern, highly customizable Windows 7-style skin for Open-Shell Menu. Compatible with Windows 8, 8.1, and 10.
+A modern, highly customizable Windows 7-style skin for Open-Shell Menu. Compatible with Windows 8, recommended on 10.
 
 ![Start menu](https://user-images.githubusercontent.com/61938331/92986658-8909b380-f48a-11ea-896b-b33a72f11bc7.png)
 

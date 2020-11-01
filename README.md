@@ -28,7 +28,3 @@ As you can see, there is an array of customization to get the menu looking exact
 ## Future additions
 
 The plan is to have more versions of the skin, including variants without rounded corners. I also intend on adding a Two column style with a tile interface, which many users might prefer. I will keep refining this skin by fixing existing bugs with certain configurations, adding enhanced usability for touch screens, and making the interface generally more consistent with Windows. I may also create some enhancements which are not related to the Start menu, but instead, other aspects of Windows, like File Explorer. Some of these will be related to Open-Shell, while others not. Expect to see things like Start buttons, Taskbar skins, and more!
-
-## Gallery
-
-*Gallery coming soon!*

@@ -3,7 +3,7 @@ A modern, highly customizable skin for Open-Shell Menu. Comes in Classic and 7-s
 
 **[Download latest release](https://github.com/bonzibudd/Fluent-Metro/releases)**
 
-![Start menu](https://user-images.githubusercontent.com/61938331/92986658-8909b380-f48a-11ea-896b-b33a72f11bc7.png)
+![image](https://user-images.githubusercontent.com/61938331/97803559-32159480-1c18-11eb-985c-ab79aef3bd45.png)
 
 ## What is Fluent-Metro?
 

@@ -28,3 +28,21 @@ As you can see, there is an array of customization to get the menu looking exact
 ## Future additions
 
 The plan is to have more versions of the skin, including variants without rounded corners. I also intend on adding a Two column style with a tile interface, which many users might prefer. I will keep refining this skin by fixing existing bugs with certain configurations, adding enhanced usability for touch screens, and making the interface generally more consistent with Windows. I may also create some enhancements which are not related to the Start menu, but instead, other aspects of Windows, like File Explorer. Some of these will be related to Open-Shell, while others may not be. Expect to see things like Start buttons, Taskbar skins, and more.
+
+## Gallery
+
+![image](https://user-images.githubusercontent.com/61938331/97803559-32159480-1c18-11eb-985c-ab79aef3bd45.png)
+
+![image](https://user-images.githubusercontent.com/61938331/97803689-034bee00-1c19-11eb-8e68-a551968f8255.png)
+
+![image](https://user-images.githubusercontent.com/61938331/97803707-18c11800-1c19-11eb-8a0e-c3f1c63eb372.png)
+
+![image](https://user-images.githubusercontent.com/61938331/97803714-224a8000-1c19-11eb-8876-7ac2585276d6.png)
+
+![image](https://user-images.githubusercontent.com/61938331/97803729-37271380-1c19-11eb-9523-7d79a93cdc51.png)
+
+![image](https://user-images.githubusercontent.com/61938331/97803746-51f98800-1c19-11eb-8275-f34f8a4ca77b.png)
+
+![image](https://user-images.githubusercontent.com/61938331/97803800-be748700-1c19-11eb-9ff0-13aec4ca3681.png)
+
+![image](https://user-images.githubusercontent.com/61938331/97803841-e7951780-1c19-11eb-9727-bb0c4ff1180d.png)

@@ -2,7 +2,7 @@
 name: Bug report
 about: An issue which negatively impacts usability.
 title: ''
-labels: 'feature/enhancement'
+labels: 'bug'
 assignees: ''
 
 ---

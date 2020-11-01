@@ -14,7 +14,7 @@ A clear and concise description of what the bug is.
 A clear and concise description of what you expected to happen.
 
 ## Screenshots
-If applicable, add screenshots to help explain your problem.
+Please add one or more screenshots to help explain your problem.
 
 ## Version:
  - OS: [e.g. Windows 10]

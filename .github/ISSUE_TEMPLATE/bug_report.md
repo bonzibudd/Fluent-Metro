@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Describe the bug and affected aspect
+## Describe the bug and specify the aspect which is affected
 A clear and concise description of what the bug is.
 
 ## Expected behavior

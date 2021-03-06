@@ -18,4 +18,4 @@ Please add one or more screenshots to help explain your problem.
 
 ## Version:
  - OS: [e.g. Windows 10]
- - Fluent-Metro: [e.g. v1.2]
+ - Fluent-Metro: [e.g. v1.3]

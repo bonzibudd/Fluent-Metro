@@ -14,11 +14,11 @@ This skin is an attempt to bring a modern look and full customization to Open-Sh
 
 First of all, you need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly customizable Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
 
-To install, copy the Fluent-Metro file(s) into "C:\Program Files\Open-Shell\Skins" so that the program recognizes the skin. Note that the file with the ".skin" extension is for the "Classic" and "Two column" styles, while the ".skin7" file is for the Windows 7 style. Now, in Open-Shell Menu Settings, navigate to the "Skins" tab. From the skin dropdown, choose Fluent-Metro.
+To install, copy the Fluent-Metro file(s) into "C:\Program Files\Open-Shell\Skins" so that the program recognizes the skin. Now, in Open-Shell Menu Settings, navigate to the "Skins" tab. From the skin dropdown, choose Fluent-Metro.
 
 **And Voilà!** The skin will be applied.
 
-** On Windows 8, Big Muscle's Aero Glass is highly recommended. Some visual features are currently limited without glass enabled. This may change in the future.
+** If you are using Windows 8 (not reccomended), Big Muscle's Aero Glass is suggested to install. Some visual features are limited without glass enabled. This may change in the future.
 
 ## Configuration Options
 
@@ -28,7 +28,7 @@ As you can see, there is an array of customization to get the menu looking exact
 
 ## Future additions
 
-The plan is to have more versions of the skin, including variants without rounded corners. I also intend on adding a Two column style with a tile interface, which many users might prefer. I will keep refining this skin by fixing existing bugs with certain configurations, adding enhanced usability for touch screens, and making the interface generally more consistent with Windows. I may also create some enhancements which are not related to the Start menu, but instead, other aspects of Windows, like File Explorer. Some of these will be related to Open-Shell, while others may not be. Expect to see things like Start buttons, Taskbar skins, and more.
+The next step in developing the skin will be to add a Two column style with a tiled interface, which many users might prefer. This skin will continue to be refined by fixing existing bugs with certain configurations, adding enhanced usability for touch screens, and making the interface generally more consistent with Windows. Other enhancements may be added which are not related to the Start menu, but instead, other aspects of Windows, like File Explorer and the Taskbar. Some of these will be related to Open-Shell, while others may not be. You can expect to see things like Start buttons, Taskbar skins, icon sets, and other additions, although none are guaranteed to be added.
 
 ## Gallery
 

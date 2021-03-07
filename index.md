@@ -1,3 +1,5 @@
+## Fluent-Metro for Open-Shell Menu
+
 ### Download latest release [here!](https://github.com/bonzibudd/Fluent-Metro/releases)
 
 Ways to contribute:

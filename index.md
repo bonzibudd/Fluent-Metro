@@ -4,7 +4,7 @@ A modern, highly customizable skin for Open-Shell Menu. Compatible with Windows 
 ## Download latest release [here!](https://github.com/bonzibudd/Fluent-Metro/releases)
  - Create a **[Bug report](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=bug&template=bug_report.md&title=)**.
  - Create a **[Feature request](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=feature%2Fenhancement&template=feature_request.md&title=)**.
-___
+____
 
 ![image](https://user-images.githubusercontent.com/61938331/110215679-0b42c580-7e79-11eb-91e3-0d90d48cddf5.png)
 

@@ -1,9 +1,13 @@
 # Fluent-Metro
 A modern, highly customizable skin for Open-Shell Menu. Compatible with Windows 10.
 
-## Download latest release [here!](https://github.com/bonzibudd/Fluent-Metro/releases)
+### Download latest release [here!](https://github.com/bonzibudd/Fluent-Metro/releases)
+
+Ways to contribute:
  - Create a **[Bug report](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=bug&template=bug_report.md&title=)**.
  - Create a **[Feature request](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=feature%2Fenhancement&template=feature_request.md&title=)**.
+
+All feedback is appreciated.
 
 ---
 

@@ -7,7 +7,7 @@ A modern, highly customizable skin for Open-Shell, compatible with Windows 10.
 
 - - -
 
-![image](https://user-images.githubusercontent.com/61938331/110623529-f745df00-816a-11eb-8c6f-2c26e8b9a7f8.png)
+![Fluent-Metro](https://user-images.githubusercontent.com/61938331/111893522-a5f2e680-89d9-11eb-83c1-82e1b64f4889.png)
 
 ### What is Fluent-Metro?
 

@@ -1,4 +1,4 @@
-### Fluent-Metro 
+### ![Fluent-Metro](/Resources/Icon/Fluent-Metro.ico)Fluent-Metro
 **For Open-Shell Menu**
 
 A modern, highly customizable skin for Open-Shell, compatible with Windows 10.

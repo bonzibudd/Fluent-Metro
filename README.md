@@ -25,7 +25,7 @@ To install, copy the Fluent-Metro file(s) into "C:\Program Files\Open-Shell\Skin
 
 ### Configurations
 
-![Options](https://user-images.githubusercontent.com/61938331/92263545-cb3f5d80-eeaa-11ea-9514-2b06562f1f4f.png)
+![Options](https://user-images.githubusercontent.com/61938331/111893273-fe28e900-89d7-11eb-863d-ef05338f04a9.png)
 
 As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the Modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice a possible issue with an option, PLEASE FILE A BUG REPORT!** More options will be (and have been) added as new versions of the skin get released.
 

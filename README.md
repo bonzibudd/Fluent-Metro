@@ -21,12 +21,14 @@ To install, copy the Fluent-Metro file(s) into "C:\Program Files\Open-Shell\Skin
 
 **And Voilà!** The skin will be applied.
 
+**Something doesn't look right?** Feel free to make a [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) post.
+
 ### Configurations
 
 ![Options](https://user-images.githubusercontent.com/61938331/111893273-fe28e900-89d7-11eb-863d-ef05338f04a9.png)
 
-As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the Modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice a possible issue with an option, PLEASE FILE A BUG REPORT!** More options will be added over time as new versions of the skin get released.
+As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the Modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice an issue with an option, you can file a bug report on Github.** Additionally, more options will likely be added as new versions of the skin get released.
 
 ### Future additions
 
-The next step major development will be adding a Two column style with a tiled interface, as many users prefer that layout for ease of use and familiarity. The skins will continue to be refined by fixing existing bugs with certain configurations, adding enhanced usability, and making the interface generally more pleasing with more customization. Other non-Start menu additions may be considered for this repository, like enhancements to File Explorer and the Taskbar. Some of these will be related to Open-Shell, while others may not be. You may expect to see things like Start buttons, Taskbar skins, and icon sets, although none are necessarily guaranteed.
+The next step in development will be adding a Two column style with a tiled interface, as many people prefer that layout for ease of use and familiarity. The skins will continue to be refined by fixing general bugs, adding enhanced usability, and making the interface generally more pleasing with more customization. Other non-Start menu additions may be considered for this repository, like enhancements to File Explorer and the Taskbar. Some of these will be related to Open-Shell, while others may not be. You may expect to see things like Start buttons, Taskbar skins, and icon sets, although none are necessarily guaranteed.

@@ -14,6 +14,7 @@ A modern, highly customizable skin for Open-Shell, made for Windows 10.
 This skin brings a modern look and full customization to Open-Shell. It uses design aspects including depth, transparency, and dynamic colors. Additional enhancements include a wide array of customizable options, such as padding and font sizes, color choices, and button appearance. 
 
 ### Setup Process
+**Fluent-Metro is designed for Windows 10. It is incompatible with Windows 7, and only partially compatible with 8.**
 
 To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
 

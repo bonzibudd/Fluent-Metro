@@ -22,6 +22,8 @@ To install, copy the Fluent-Metro file(s) into "C:\Program Files\Open-Shell\Skin
 
 **And Voilà!** The skin will be applied.
 
+**If you notice that the menu looks off-color, set the "Menu glass color" to #858585 in Open-Shell Settings.** This will prevent your accent color from being present in the main background.
+
 **Something doesn't look right?** Feel free to make a [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) post.
 
 ### Configurations

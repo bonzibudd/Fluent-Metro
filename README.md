@@ -1,4 +1,4 @@
-### Fluent-Metro  ![Fluent-Metro](/Resources/Icon/Fluent-Metro.ico)
+### Fluent-Metro
 
 **For Open-Shell Menu**
 

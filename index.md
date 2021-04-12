@@ -8,7 +8,7 @@ Ways to contribute:
 
 ---
 
-![image](https://user-images.githubusercontent.com/61938331/110215679-0b42c580-7e79-11eb-91e3-0d90d48cddf5.png)
+![image](https://user-images.githubusercontent.com/61938331/114327821-9f531d00-9b08-11eb-945b-1dfe22a55465.png)
 
 ### What is Fluent-Metro?
 

@@ -1,21 +1,21 @@
 ---
 name: Bug report
-about: An issue which negatively impacts usability.
+about: An issue impacting usability
 title: ''
 labels: 'bug'
 assignees: ''
 
 ---
 
-## Describe the bug and specify the aspect which is affected
+### Describe the bug and specify what is affected
 A clear and concise description of what the bug is.
 
-## Expected behavior
-A clear and concise description of what you expected to happen.
+### What you expected
+A clear and concise description of what should be expected.
 
-## Screenshots
-Please add one or more screenshots to help explain your problem.
+### Screenshots
+Please add one or more screenshots to help explain the problem.
 
-## Version:
+### Version:
  - OS: [e.g. Windows 10]
- - Fluent-Metro: [e.g. v1.3]
+ - Fluent-Metro: [e.g. v1.4]

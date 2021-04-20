@@ -35,11 +35,7 @@ As you can see, there is plenty of customization to get the menu looking exactly
 
 
 ### Scripts and Resources
-All scripts and resources are available in the individual skin files.
-
-If you would like to make changes to the Fluent-Metro skin, download the .skin/.skin7 from the release page and open it with Resource Hacker.
-
-If you want to make changes to part of the script, check out the [Open-Shell skinning tutorial](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/skintutorial.html)
+All scripts and resources are available in the individual skin files. If you would like to make changes to the Fluent-Metro skin, download the .skin/.skin7 from the release page and open it with Resource Hacker. If you want to make changes to part of the script, check out the [Open-Shell skinning tutorial](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/skintutorial.html)
 
 
 ### Future development

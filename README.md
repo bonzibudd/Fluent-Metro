@@ -12,7 +12,7 @@ A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
 ### What is Fluent-Metro?
 
-This skin brings a modern look and full customization to Open-Shell. It uses design aspects including depth, transparency, and dynamic colors. Additional enhancements include a wide array of customizable options, such as padding and font sizes, color choices, and button appearance. 
+This skin brings a modern look and full customization to Open-Shell. It uses modern design elements providing depth, transparency, and automatic colors to the Start Menu. Additionally, it provides a wide array of customizable options, including padding and font sizes, color choices, and button appearance. 
 
 ## Installation
 **Fluent-Metro is designed for Windows 10. It is incompatible with Windows 7, and only partially compatible with 8.**
@@ -25,13 +25,13 @@ To install, copy the Fluent-Metro file(s) into "C:\Program Files\Open-Shell\Skin
 
 **If you notice that the menu looks off-color, set the "Menu glass color" to #858585 in Open-Shell Settings.** This will prevent your accent color from being present in the main background.
 
-**Something doesn't look right?** Feel free to make a [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) post.
+**Something doesn't look right?** Feel free to make a post in the [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) area.
 
 ### Configurations
 
 ![Options](https://user-images.githubusercontent.com/61938331/111893273-fe28e900-89d7-11eb-863d-ef05338f04a9.png)
 
-As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the Modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice an issue with an option, you can file a bug report on Github.** Additionally, more options will likely be added as new versions of the skin get released.
+As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice an issue with an option, you can file a bug report on Github.** Additionally, more options will likely be added as new versions of the skin get released.
 
 
 ### Scripts and Resources

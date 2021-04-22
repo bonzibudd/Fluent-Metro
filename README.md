@@ -31,12 +31,12 @@ To install, copy the Fluent-Metro file(s) into `C:\Program Files\Open-Shell\Skin
 
 ![Options](https://user-images.githubusercontent.com/61938331/115725902-3b262980-a350-11eb-915c-38ba64abcb0e.png)
 
-As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice an issue with an option, you can file a bug report on Github.** Additionally, more options will likely be added as new versions of the skin get released.
+As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice an issue with an option, you can file a bug report on Github.** Options will be continually added as updates get released.
 
+- - -
 
 ### Scripts and Resources
 All scripts and resources are available in the individual skin files. If you would like to make changes to the Fluent-Metro skin, download the .skin/.skin7 from the release page and open it with Resource Hacker. If you want to make changes to part of the script, check out the [Open-Shell skinning tutorial](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/skintutorial.html).
-
 
 ### Future development
 

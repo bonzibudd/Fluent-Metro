@@ -19,11 +19,11 @@ This skin brings a modern look and full customization to Open-Shell. It uses mod
 
 To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
 
-To install, copy the Fluent-Metro file(s) into `C:\Program Files\Open-Shell\Skins` so that the skin is recognized. Now, in Open-Shell Menu Settings, navigate to the "Skins" tab. From the dropdown, choose Fluent-Metro (the name may be different on pre-release versions).
+To install, copy the Fluent-Metro file(s) into `C:\Program Files\Open-Shell\Skins` so that the skin is recognized. Head to the Open-Shell Menu Settings and navigate to the Start Menu Style tab. Select "Windows 7 Style." Finally, navigate to the "Skins" tab. From the dropdown, choose Fluent-Metro (the name may be different on pre-release versions).
 
 **And Voilà!** The skin will be applied.
 
-**If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings.** This will prevent your accent color from bleeding into the menu background.
+**If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings (under "Menu Look").** This will prevent your accent color from bleeding into the menu background.
 
 **Something doesn't look right?** Feel free to make a post in the [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) area.
 

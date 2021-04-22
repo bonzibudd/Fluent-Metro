@@ -40,4 +40,7 @@ All scripts and resources are available in the individual skin files. If you wou
 
 ### Future development
 
-The next major step in development will be the addition of a two-column variant with a tiled interface, as many people prefer that layout for ease of use and familiarity. The skins will continue to be refined by fixing general bugs, adding enhanced usability, and making the interface generally more pleasing with thorough customization. Other non-Start menu additions may be considered for this repository, like enhancements to File Explorer and the Taskbar. Some of these could still be related to Open-Shell, while others may not be. You may expect to see things like Start buttons, Taskbar skins, and icon sets, although none are necessarily guaranteed.
+The next major step in development will be the addition of "Classic" style variants, which include an optional tiled interface. Many people prefer that layout for ease of use and familiarity, and it will be a good addition for people previously using the classic styles. Another goal is to provide an easier method of installation and configuration, for a more traditional approach for people unfamiliar with skinning. Overall, the skins will continue to be refined by fixing bugs, adding more thorough customization, and making the interface more appealing overall. 
+
+
+In addition to the Start Menu, other types of additions may also be considered, like enhancements to File Explorer and the Taskbar. You may expect to see things like Start buttons, Taskbar skins, and icon sets, although none are currently planned.

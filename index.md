@@ -1,7 +1,3 @@
-## **Fluent-Metro for Open-Shell Menu**
-
-
-
 ## What is Fluent-Metro?
 
 This skin is an attempt to bring a modern look and full customization to Open-Shell. It uses modern elements such as curved corners, flat borders, bold fonts, glyphs, depth, and other cues from Fluent design. It even has a floating border! Additional enhancements include a wide array of customizable options, such as icon and padding size, colors choices, fonts sizes, and button appearance. More options will be (and have been) added to enhance the experience.

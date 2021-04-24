@@ -5,13 +5,18 @@ This skin is an attempt to bring a modern look and full customization to Open-Sh
 
 ### Download latest release [here!](https://github.com/bonzibudd/Fluent-Metro/releases)
 
+---
+
+![image](https://user-images.githubusercontent.com/61938331/114327821-9f531d00-9b08-11eb-945b-1dfe22a55465.png)
+
+---
+
+
 ## Ways to contribute:
  - Create a **[Bug report](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=bug&template=bug_report.md&title=)**.
  - Create a **[Feature request](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=feature%2Fenhancement&template=feature_request.md&title=)**.
 
----
 
-![image](https://user-images.githubusercontent.com/61938331/114327821-9f531d00-9b08-11eb-945b-1dfe22a55465.png)
 
 
 

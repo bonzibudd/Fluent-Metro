@@ -5,9 +5,7 @@
 A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
 ### Download latest release [here](https://github.com/bonzibudd/Fluent-Metro/releases).
-
-- - -
-
+###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
 ![image](https://user-images.githubusercontent.com/61938331/114327853-bd208200-9b08-11eb-90e2-2e86e9004943.png)
 
 ### What is Fluent-Metro?
@@ -25,13 +23,13 @@ To install, copy the Fluent-Metro file(s) into `C:\Program Files\Open-Shell\Skin
 
 **If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings (under "Menu Look").** This will prevent your accent color from bleeding into the menu background.
 
-**Something doesn't look right?** Feel free to make a post in the [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) area.
+**Something else doesn't look right?** Feel free to make a post in the [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) area.
 
 ### Configurations
 
 ![Options](https://user-images.githubusercontent.com/61938331/115725902-3b262980-a350-11eb-915c-38ba64abcb0e.png)
 
-As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be grayed out. **If you notice an issue with an option, you can file a bug report on Github.** Options will be continually added as updates get released.
+As you can see, there is plenty of customization to get the menu looking exactly how you want. Any additional required information is also explained here. For instance, using the modern shutown button requires you to enable the shutdown dialog in Open-Shell settings. If an option is incompatible with another, it will be disabled. **If you notice an issue with an option, you may file a [bug report](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=bug&template=bug_report.md&title=).** Options will be continually added as updates get released.
 
 - - -
 

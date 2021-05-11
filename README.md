@@ -2,9 +2,11 @@
 
 **For Open-Shell Menu**
 
+
 A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge)](https://github.com/bonzbudd/Fluent-Metro/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge)](https://github.com/bonzibudd/Fluent-Metro/releases)
+
 ###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
 <img src="https://user-images.githubusercontent.com/61938331/117795025-c857f200-b21b-11eb-85d7-8e7da03a6267.png" alt="Fluent-Metro" width="452">
 

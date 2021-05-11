@@ -6,7 +6,7 @@ A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
 ### Download latest release [here](https://github.com/bonzibudd/Fluent-Metro/releases).
 ###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
-![image](https://user-images.githubusercontent.com/61938331/114327853-bd208200-9b08-11eb-90e2-2e86e9004943.png)
+<img src="https://user-images.githubusercontent.com/61938331/117795025-c857f200-b21b-11eb-85d7-8e7da03a6267.png" alt="Fluent-Metro" width="452">
 
 ### What is Fluent-Metro?
 

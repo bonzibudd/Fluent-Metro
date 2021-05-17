@@ -13,7 +13,14 @@ A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
 ### What is Fluent-Metro?
 
-This skin brings a modern look and full customization to Open-Shell. It uses modern design elements providing depth, transparency, and automatic colors to the Start Menu. Additionally, it provides a wide array of customizable options, including padding and font sizes, color choices, and button appearance. 
+This skin brings a modern look and full customization to Open-Shell. It uses refreshed design elements with transparency and depth, following the design of Windows 10. 
+
+Some enhancements include:
+ - Use of Windows 10's system colors, providing automatic light/dark colorization
+ - Customizable text and background colors, along with accent color
+ - Various options for padding and layout sizes
+ - Updated icons, matching Windows 10's Fluent icons
+ - Improved scaling of menu elements (padding, icons, etc.)
 
 ## Installation
 **Fluent-Metro is designed for Windows 10. It is incompatible with Windows 7, and only partially compatible with 8.**

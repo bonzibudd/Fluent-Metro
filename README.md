@@ -23,13 +23,15 @@ Some enhancements include:
  - Improved scaling of menu elements (padding, icons, etc.)
 
 ## Installation
-**Fluent-Metro is designed for Windows 10. It is incompatible with Windows 7, and only partially compatible with 8.**
+**Fluent-Metro is designed for Windows 10. It is incompatible with Windows 7 and 8.**
 
 To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
 
-To install, copy the Fluent-Metro file(s) into `C:\Program Files\Open-Shell\Skins` so that the skin is recognized. Head to the Open-Shell Menu Settings and navigate to the Start Menu Style tab. Select "Windows 7 Style." Finally, navigate to the "Skins" tab. From the dropdown, choose Fluent-Metro (the name may be different on pre-release versions).
+To install, copy the `Fluent-Metro.skin` and `.skin7` files into `C:\Program Files\Open-Shell\Skins` so the skin is recognized by Open-Shell. Next, navigate to the "Skins" tab, and from the dropdown, choose Fluent-Metro (the name may be different on pre-release versions).
 
-**And Voilà!** The skin will be applied.
+**If you're using the Classic variant and want to enable tiles,** select `Backup` -> `Load from XML File...` and select the XML file from the downloaded release. (Make sure to unzip!)
+
+**And Voilà!** The new interface will be applied. You can further change the links for the tiles under "Customize Start Menu."
 
 **If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings (under "Menu Look").** This will prevent your accent color from bleeding into the menu background.
 

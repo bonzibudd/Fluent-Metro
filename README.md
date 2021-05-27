@@ -10,7 +10,6 @@ A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
 ###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
 <img src="https://user-images.githubusercontent.com/61938331/118149650-bc1c9200-b3df-11eb-9fcf-dac0f42d145a.png" alt="Fluent-Metro" width="394">
-<img src="https://user-images.githubusercontent.com/61938331/119748190-5231cd00-be62-11eb-98f8-a7ce0506b2be.png" alt="Fluent-Metro" width="377">
 
 ### What is Fluent-Metro?
 
@@ -33,6 +32,8 @@ To install, copy the `Fluent-Metro.skin` and `.skin7` files into `C:\Program Fil
 **If you're using the Classic variant and want to enable tiles,** select `Backup` -> `Load from XML File...` and select the XML file from the downloaded release. (Make sure to unzip!)
 
 **And Voilà!** The new interface will be applied. You can further change the links for the tiles under "Customize Start Menu."
+
+<img src="https://user-images.githubusercontent.com/61938331/119748190-5231cd00-be62-11eb-98f8-a7ce0506b2be.png" alt="Tiles" width="377">
 
 **If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings (under "Menu Look").** This will prevent your accent color from bleeding into the menu background.
 

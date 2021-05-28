@@ -30,7 +30,7 @@ To install, copy the `Fluent-Metro.skin` and `.skin7` files into `C:\Program Fil
 
 **And Voilà!** The new interface will be applied. You can further change the links for the tiles under "Customize Start Menu."
 
-<img src="https://user-images.githubusercontent.com/61938331/119748190-5231cd00-be62-11eb-98f8-a7ce0506b2be.png" alt="Tiles" width="377">
+<img src="https://user-images.githubusercontent.com/61938331/120019200-26bff700-bfb6-11eb-9e5c-a1d95c372564.png" alt="Tiles" width="469">
 
 **If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings (under "Menu Look").** This will prevent your accent color from bleeding into the menu background.
 

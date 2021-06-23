@@ -5,7 +5,7 @@
 
 A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue)](https://github.com/bonzibudd/Fluent-Metro/releases)
+<a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue&labelColor=555555&label=Downloads" height="28" alt="Downloads"/></a>
 
 
 ###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
@@ -33,7 +33,7 @@ To install, copy the `Fluent-Metro.skin` and `.skin7` files into `C:\Program Fil
 
 **And Voilà!** The new interface will be applied. You can further change the links for the tiles under "Customize Start Menu."
 
-<img src="https://user-images.githubusercontent.com/61938331/119748190-5231cd00-be62-11eb-98f8-a7ce0506b2be.png" alt="Tiles" width="377">
+<img src="https://user-images.githubusercontent.com/61938331/120019200-26bff700-bfb6-11eb-9e5c-a1d95c372564.png" alt="Tiles" width="469">
 
 **If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings (under "Menu Look").** This will prevent your accent color from bleeding into the menu background.
 
@@ -52,7 +52,6 @@ All scripts and resources are available in the individual skin files. If you wou
 
 ### Future development
 
-The next major step in development will be the addition of "Classic" style variants, which include an optional tiled interface. Many people prefer that layout for ease of use and familiarity, and it will be a good addition for people previously using the classic styles. Another goal is to provide an easier method of installation and configuration, for a more traditional approach for people unfamiliar with skinning. Overall, the skins will continue to be refined by fixing bugs, adding more thorough customization, and making the interface more appealing overall. 
-
+One goal I have for the skins is to provide an easier method of installation and configuration, for a more traditional approach for people unfamiliar with skinning. Overall, the skins will continue to be refined by fixing bugs, adding more thorough customization, and making the interface more appealing overall. 
 
 In addition to the Start Menu, other types of additions may also be considered, like enhancements to File Explorer and the Taskbar. You may expect to see things like Start buttons, Taskbar skins, and icon sets, although none are currently planned.

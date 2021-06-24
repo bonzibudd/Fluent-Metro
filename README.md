@@ -1,3 +1,5 @@
+<img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" height="48">
+
 ### Fluent-Metro
 
 **For Open-Shell Menu**

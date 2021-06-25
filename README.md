@@ -1,4 +1,4 @@
-# <img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" width="32"> Fluent-Metro
+# <img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" height="32"> Fluent-Metro
 
 **For Open-Shell Menu**
 

@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: A feature or enhancement you think should be added.
+about: A feature or enhancement you would like to be added.
 title: ''
 labels: 'feature/enhancement'
 assignees: ''
@@ -14,4 +14,4 @@ A clear and concise description of what you want to be added.
 An explanation of how this feature may be useful.
 
 ### Screenshots
-If possible, please provide one or more screenshots to depict your feature request.
+If possible, please provide one or more screenshots depicting your feature request.

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: An issue impacting usability
+about: An issue impacting usability.
 title: ''
 labels: 'bug'
 assignees: ''
@@ -18,4 +18,4 @@ Please add one or more screenshots to help explain the problem.
 
 ### Version:
  - OS: [e.g. Windows 10]
- - Fluent-Metro: [e.g. v1.5]
+ - Fluent-Metro: [e.g. v1.5.2]

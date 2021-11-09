@@ -10,8 +10,8 @@ assignees: ''
 ### Describe the proposed feature
 A clear and concise description of what you want to be added.
 
-### Describe how the enhancement relates to your usage
-An explanation of how this feature may be useful.
+### Explain how the feature may be useful
+An explanation of how this feature may be helpful relating to your usage.
 
 ### Screenshots
 If possible, please provide one or more screenshots depicting your feature request.

@@ -1,11 +1,10 @@
-# <a href="#-fluent-metro"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" height="32"></a> Fluent-Metro
+### Fluent-Metro
 
 **For Open-Shell Menu**
 
-
 A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
-<a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue&labelColor=555555&label=Downloads" height="28" alt="Downloads"/></a>
+<a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" height="32"></a> <a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue&labelColor=E6E6E6&label=Downloads" height="32" width="144" alt="Downloads"/></a>
 
 
 ###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
@@ -16,13 +15,13 @@ A modern, highly customizable skin for Open-Shell, made for Windows 10.
 This skin brings a modern look and full customization to Open-Shell. It uses refreshed design elements with transparency and depth, following the design of Windows 10. 
 
 Some enhancements include:
- - Use of Windows 10's system colors, providing automatic light/dark colorization
+ - Inclusion of system colors, providing automatic light/dark modes
  - Customizable text and background colors, along with accent color
  - Various options for padding and layout sizes
  - Updated icons, matching Windows 10's Fluent icons
  - Improved scaling of menu elements (padding, icons, etc.)
 
-## Installation
+### Installation
 **Fluent-Metro is designed for Windows 10. It is incompatible with Windows 7 and 8.**
 
 To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.

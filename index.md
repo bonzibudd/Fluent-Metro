@@ -1,4 +1,4 @@
-### What is Fluent-Metro?
+### <a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" height="32"></a> What is Fluent-Metro?
 
 This skin brings a modern look and full customization to Open-Shell. It uses refreshed design elements with transparency and depth, following the design of Windows 10. 
 

@@ -9,9 +9,12 @@ Some enhancements include:
  - Updated icons, matching Windows 10's Fluent icons
  - Improved scaling of menu elements (padding, icons, etc.)
 
-<img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue&labelColor=E6E6E6&label=Downloads" height="32" width="144" alt="Downloads"/></a>
+<img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue&labelColor=E6E6E6&label=Downloads" height="32" width="144" alt="Downloads"/>
 
 Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
+
+- - -
+
 <img src="https://user-images.githubusercontent.com/61938331/118149650-bc1c9200-b3df-11eb-9fcf-dac0f42d145a.png" alt="Fluent-Metro" width="394">
 
 

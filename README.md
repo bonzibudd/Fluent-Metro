@@ -28,7 +28,7 @@ To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Me
 
 To install, copy the `Fluent-Metro.skin` and `.skin7` files into `C:\Program Files\Open-Shell\Skins` so the skin is recognized by Open-Shell. Next, navigate to the "Skins" tab, and from the dropdown, choose Fluent-Metro (the name may be different on pre-release versions).
 
-**If you're using the Classic variant and want to enable tiles,** select `Backup` -> `Load from XML File...` and select the XML file from the downloaded release. (Make sure to unzip!)
+**If you want to enable the Classic variant with tiles,** select `Backup` -> `Load from XML File...` and select the XML file from the downloaded release. (Make sure to unzip!)
 
 **And Voilà!** The new interface will be applied. You can further change the links for the tiles under "Customize Start Menu."
 
@@ -36,7 +36,7 @@ To install, copy the `Fluent-Metro.skin` and `.skin7` files into `C:\Program Fil
 
 **If you notice that the menu looks off-color, set the** `Menu glass color` **to #858585 in Open-Shell Settings (under "Menu Look").** This will prevent your accent color from bleeding into the menu background.
 
-**Something else doesn't look right?** Feel free to make a post in the [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) area.
+**Something doesn't look right?** Feel free to make a post in the [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) area.
 
 ### Configurations
 

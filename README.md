@@ -39,8 +39,7 @@ To install, copy the `Fluent-Metro.skin` and `.skin7` files into `C:\Program Fil
 
 ### Configurations
 
-![Options](https://user-images.githubusercontent.com/61938331/115725902-3b262980-a350-11eb-915c-38ba64abcb0e.png)
-<img src="https://user-images.githubusercontent.com/61938331/115725902-3b262980-a350-11eb-915c-38ba64abcb0e.png" alt="Options" width="492">
+<img src="https://user-images.githubusercontent.com/61938331/115725902-3b262980-a350-11eb-915c-38ba64abcb0e.png" alt="Options" width="431">
 
 Fluent-Metro provides a variety of customization to get the menu looking exactly how you want. If you need clarification about what an option does, you can hover over the item for a description. If an option is incompatible with another, it will be disabled. **If you notice an issue with an option, please file a [bug report](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=bug&template=bug_report.md&title=).** Options will be expanded and improved upon as updates are released.
 

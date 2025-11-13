@@ -1,10 +1,14 @@
+#### ***Fluent-Metro is going back into development. Please consider donating to my [PayPal](https://www.paypal.me/bonzibudd) to help fund future improvements, such as full Windows 11 compatibility and complete visual overhaul.
+
+
+
 ### Fluent-Metro
 
 **For Open-Shell Menu**
 
 A modern, highly customizable skin for Open-Shell, made for Windows 10.
 
-<a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" height="32"></a> <a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue&labelColor=E6E6E6&label=Downloads" height="32" width="144" alt="Downloads"/></a>
+<a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Metro" height="16"></a> <a href="https://github.com/bonzibudd/Fluent-Metro/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue&labelColor=E6E6E6&label=Downloads" height="32" width="144" alt="Downloads"/></a>
 
 
 ###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
@@ -47,7 +51,3 @@ Fluent-Metro provides a variety of customization to get the menu looking exactly
 
 ### Scripts and Resources
 Resources for skinning are available in the Fluent-Metro skin files. If you would like to make changes to the skin(s), download the .skin/.skin7 from the release page and open it with Resource Hacker (or equivalent). If you want to make changes to part of the script, check out the [Open-Shell skinning tutorial](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/skintutorial.html).
-
-### Future development
-
-There are not currently any major plans for the development of Fluent-Metro, however all updates will be posted in the [discussions](https://github.com/bonzibudd/Fluent-Metro/discussions) area.
